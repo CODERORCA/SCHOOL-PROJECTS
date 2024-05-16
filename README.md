@@ -1,4 +1,2 @@
-# SCHOOL-PROJECTS
-> All Projects done in the past can be found, here.
-It includes a website and a database.
-Note that you won't be able to launch the database unless you change the username inside the files and establish connection to the Oracle Database.
+# Website project
+You can find the project for a website here as a 7z file. Extract and place them on your desktop to launch it.
